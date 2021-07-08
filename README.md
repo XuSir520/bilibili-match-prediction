@@ -143,4 +143,3 @@ bilibili-match-prediction
 感谢 JetBrains 对本项目的支持。
 
 [![JetBrains](docs/IMG/jetbrains.svg)](https://www.jetbrains.com/?from=BILIBILI-HELPER)
-
